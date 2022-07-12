@@ -1,0 +1,35 @@
+1657561294915	geckodriver	INFO	Listening on 127.0.0.1:51233
+1657561297978	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51234" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Shiva\\AppData\\Local\\Temp\\rust_mozprofile7voGy7"
+1657561298764	Marionette	INFO	Marionette enabled
+1657561298774	Marionette	INFO	Listening on port 51244
+WebDriver BiDi listening on ws://localhost:51234
+Read port: 51244
+1657561299119	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Shiva\\AppData\\Local\\Temp\\rust_mozprofile7voGy7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51234/devtools/browser/83eaedf7-0dce-4c91-9721-f365fb9a1a67
+JavaScript warning: https://www.trivago.in/FhvvN3H5g8QE93-Js4yKmweesig/3kt5DSGm/aixKAQ/fl/oSZxAlQGw, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657561527749	Marionette	INFO	Stopped listening on port 51244
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "51372" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Shiva\\AppData\\Local\\Temp\\rust_mozprofilejKYETV"
+1657561431798	Marionette	INFO	Marionette enabled
+1657561431807	Marionette	INFO	Listening on port 51382
+WebDriver BiDi listening on ws://localhost:51372
+Read port: 51382
+1657561432148	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Shiva\\AppData\\Local\\Temp\\rust_mozprofilejKYETV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51372/devtools/browser/7dafb70f-3c08-4f09-816a-68d0a3fb7e22
+JavaScript warning: https://www.trivago.in/FhvvN3H5g8QE93-Js4yKmweesig/3kt5DSGm/aixKAQ/fl/oSZxAlQGw, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657561527054	Marionette	INFO	Stopped listening on port 51382
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657608406813	geckodriver	INFO	Listening on 127.0.0.1:53640
+1657608409879	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53641" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Shiva\\AppData\\Local\\Temp\\rust_mozprofilewAJca0"
+1657608410655	Marionette	INFO	Marionette enabled
+1657608410665	Marionette	INFO	Listening on port 53651
+WebDriver BiDi listening on ws://localhost:53641
+Read port: 53651
+1657608411010	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Shiva\\AppData\\Local\\Temp\\rust_mozprofilewAJca0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53641/devtools/browser/1cd2ad84-c2d2-4dff-b74c-351847c4ea40
+JavaScript warning: https://www.trivago.in/jSsA/hw3D/4/mox/hk3LLA/Y7i7pkmfYrOa/JU5qJG86HAQ/WGJTfgwK/SSQ, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657628069865	Marionette	INFO	Stopped listening on port 53651
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.

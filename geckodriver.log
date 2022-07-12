@@ -1,0 +1,374 @@
+1657263391703	geckodriver	INFO	Listening on 127.0.0.1:51192
+1657263394800	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51193" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Shiva\\AppData\\Local\\Temp\\rust_mozprofileb1Si2O"
+1657263395764	Marionette	INFO	Marionette enabled
+1657263395777	Marionette	INFO	Listening on port 51204
+WebDriver BiDi listening on ws://localhost:51193
+Read port: 51204
+1657263396209	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Shiva\\AppData\\Local\\Temp\\rust_mozprofileb1Si2O\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51193/devtools/browser/628a03da-f8b6-4e1e-8e60-3746c6e85890
+JavaScript warning: https://www.trivago.in/ZC8R8F/mVXXO/Llxyk/hw/aVJ3pGtJp3uO/WTAXAg/OT/wYUj5-chE, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657263415219	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.trivago.in"
+JavaScript warning: https://maps.googleapis.com/maps-api-v3/api/js/49/8-beta/webgl.js, line 367: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SDwrgNAjdQsa4VNQPO_RFNWmztQcb_iohgsAvJm3iSQ.js line 2 > eval line 1070 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.trivago.in/ZC8R8F/mVXXO/Llxyk/hw/aVJ37atJp3uO/WTAXAg/Vh/FCaVsQCn4, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: copyTexSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: copyTexSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1657264217862	Marionette	INFO	Stopped listening on port 51204
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657264704095	geckodriver	INFO	Listening on 127.0.0.1:52486
+1657264707213	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52487" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Shiva\\AppData\\Local\\Temp\\rust_mozprofilePJsPnD"
+1657264708127	Marionette	INFO	Marionette enabled
+1657264708151	Marionette	INFO	Listening on port 52499
+WebDriver BiDi listening on ws://localhost:52487
+Read port: 52499
+1657264708542	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Shiva\\AppData\\Local\\Temp\\rust_mozprofilePJsPnD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52487/devtools/browser/d5c5c014-5699-45b1-a126-fdfaf2ab5c6f
+JavaScript warning: https://www.trivago.in/ZC8R8F/mVXXO/Llxyk/hw/aVJ3pGtJp3uO/WTAXAg/OT/wYUj5-chE, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657264729390	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1657281842831	Marionette	INFO	Stopped listening on port 52499
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "52706" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Shiva\\AppData\\Local\\Temp\\rust_mozprofileTkWA3b"
+1657264792710	Marionette	INFO	Marionette enabled
+1657264792721	Marionette	INFO	Listening on port 52725
+WebDriver BiDi listening on ws://localhost:52706
+Read port: 52725
+1657264793082	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Shiva\\AppData\\Local\\Temp\\rust_mozprofileTkWA3b\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52706/devtools/browser/3b1a2e27-f8e3-4582-8047-188ed39230b6
+JavaScript warning: https://www.trivago.in/ZC8R8F/mVXXO/Llxyk/hw/aVJ3pGtJp3uO/WTAXAg/OT/wYUj5-chE, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657264813146	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.trivago.in"
+JavaScript warning: https://maps.googleapis.com/maps-api-v3/api/js/49/8-beta/webgl.js, line 367: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/yleD_imbJ2YLIerZJCJUa4yQOSRhPvCXXlQ8m3xKa_Q.js line 2 > eval line 176 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: copyTexSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: copyTexSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.trivago.in/ZC8R8F/mVXXO/Llxyk/hw/aVJ37atJp3uO/WTAXAg/Vh/FCaVsQCn4, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.trivago.in/ZC8R8F/mVXXO/Llxyk/hw/aVJ3pGtJp3uO/WTAXAg/OT/wYUj5-chE, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657281841617	Marionette	INFO	Stopped listening on port 52725
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "54645" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Shiva\\AppData\\Local\\Temp\\rust_mozprofilePXUHzL"
+1657266450592	Marionette	INFO	Marionette enabled
+1657266450598	Marionette	INFO	Listening on port 54658
+WebDriver BiDi listening on ws://localhost:54645
+Read port: 54658
+1657266450795	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Shiva\\AppData\\Local\\Temp\\rust_mozprofilePXUHzL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54645/devtools/browser/7cc395be-9321-401e-8889-c454f17aef6f
+JavaScript warning: https://www.trivago.in/ZC8R8F/mVXXO/Llxyk/hw/aVJ3pGtJp3uO/WTAXAg/OT/wYUj5-chE, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657266466765	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.trivago.in"
+JavaScript warning: https://maps.googleapis.com/maps-api-v3/api/js/49/8-beta/webgl.js, line 367: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/yleD_imbJ2YLIerZJCJUa4yQOSRhPvCXXlQ8m3xKa_Q.js line 2 > eval line 3180 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.trivago.in/ZC8R8F/mVXXO/Llxyk/hw/aVJ37atJp3uO/WTAXAg/Vh/FCaVsQCn4, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657266489888	Marionette	INFO	Stopped listening on port 54658
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657266524446	geckodriver	INFO	Listening on 127.0.0.1:54872
+1657266527488	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54873" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Shiva\\AppData\\Local\\Temp\\rust_mozprofileYW1qgy"
+1657266527976	Marionette	INFO	Marionette enabled
+1657266527982	Marionette	INFO	Listening on port 54886
+WebDriver BiDi listening on ws://localhost:54873
+Read port: 54886
+1657266528175	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Shiva\\AppData\\Local\\Temp\\rust_mozprofileYW1qgy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54873/devtools/browser/f8a0000c-516c-451c-a403-47eed4fc1312
+JavaScript warning: https://www.trivago.in/ZC8R8F/mVXXO/Llxyk/hw/aVJ3pGtJp3uO/WTAXAg/OT/wYUj5-chE, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657266544231	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.trivago.in"
+JavaScript warning: https://maps.googleapis.com/maps-api-v3/api/js/49/8-beta/webgl.js, line 367: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/yleD_imbJ2YLIerZJCJUa4yQOSRhPvCXXlQ8m3xKa_Q.js line 2 > eval line 4425 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.trivago.in/ZC8R8F/mVXXO/Llxyk/hw/aVJ37atJp3uO/WTAXAg/Vh/FCaVsQCn4, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657281840315	Marionette	INFO	Stopped listening on port 54886
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657285688266	geckodriver	INFO	Listening on 127.0.0.1:63216
+1657285691329	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63217" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Shiva\\AppData\\Local\\Temp\\rust_mozprofileMKHfdT"
+1657285691793	Marionette	INFO	Marionette enabled
+1657285691798	Marionette	INFO	Listening on port 63229
+WebDriver BiDi listening on ws://localhost:63217
+Read port: 63229
+1657285691989	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Shiva\\AppData\\Local\\Temp\\rust_mozprofileMKHfdT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63217/devtools/browser/be9b9b89-f195-4e40-aeb6-0dce747509d7
+JavaScript warning: https://www.trivago.in/ZC8R8F/mVXXO/Llxyk/hw/aVJ3pGtJp3uO/WTAXAg/OT/wYUj5-chE, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657287645793	Marionette	INFO	Stopped listening on port 63229
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "64431" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Shiva\\AppData\\Local\\Temp\\rust_mozprofileeQe6HA"
+1657286729368	Marionette	INFO	Marionette enabled
+1657286729381	Marionette	INFO	Listening on port 64442
+WebDriver BiDi listening on ws://localhost:64431
+Read port: 64442
+1657286729740	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Shiva\\AppData\\Local\\Temp\\rust_mozprofileeQe6HA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64431/devtools/browser/b743a0f9-90af-4f9c-a00c-db8d7c79d906
+JavaScript warning: https://www.trivago.in/ZC8R8F/mVXXO/Llxyk/hw/aVJ3pGtJp3uO/WTAXAg/OT/wYUj5-chE, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.trivago.in"
+JavaScript warning: https://maps.googleapis.com/maps-api-v3/api/js/49/8-beta/webgl.js, line 367: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/yleD_imbJ2YLIerZJCJUa4yQOSRhPvCXXlQ8m3xKa_Q.js line 2 > eval line 1191 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.trivago.in/ZC8R8F/mVXXO/Llxyk/hw/aVJ37atJp3uO/WTAXAg/Vh/FCaVsQCn4, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.trivago.in/ZC8R8F/mVXXO/Llxyk/hw/aVJ3pGtJp3uO/WTAXAg/OT/wYUj5-chE, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657287643480	Marionette	INFO	Stopped listening on port 64442
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 19852, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1
+1657286855792	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Shiva\\AppData\\Local\\Temp\\rust_mozprofilem5EcVV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64779/devtools/browser/165afe5d-bf78-4794-b5f7-cc48c552a340
+JavaScript warning: https://www.trivago.in/ZC8R8F/mVXXO/Llxyk/hw/aVJ3pGtJp3uO/WTAXAg/OT/wYUj5-chE, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.trivago.in"
+JavaScript warning: https://maps.googleapis.com/maps-api-v3/api/js/49/8-beta/webgl.js, line 367: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/yleD_imbJ2YLIerZJCJUa4yQOSRhPvCXXlQ8m3xKa_Q.js line 2 > eval line 4742 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.trivago.in/ZC8R8F/mVXXO/Llxyk/hw/aVJ37atJp3uO/WTAXAg/Vh/FCaVsQCn4, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: copyTexSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: copyTexSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1657287637311	Marionette	INFO	Stopped listening on port 64791
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657295968542	geckodriver	INFO	Listening on 127.0.0.1:60647
+1657295971630	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60648" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Shiva\\AppData\\Local\\Temp\\rust_mozprofile8skgVv"
+1657295971970	Marionette	INFO	Marionette enabled
+1657295971975	Marionette	INFO	Listening on port 60662
+WebDriver BiDi listening on ws://localhost:60648
+Read port: 60662
+1657295972131	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Shiva\\AppData\\Local\\Temp\\rust_mozprofile8skgVv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60648/devtools/browser/89f5a8a0-f195-4bfe-9f97-808e4d8966b9
+JavaScript warning: https://www.trivago.in/ZC8R8F/mVXXO/Llxyk/hw/aVJ3pGtJp3uO/WTAXAg/OT/wYUj5-chE, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.trivago.in"
+JavaScript warning: https://maps.googleapis.com/maps-api-v3/api/js/49/8-beta/webgl.js, line 367: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/yleD_imbJ2YLIerZJCJUa4yQOSRhPvCXXlQ8m3xKa_Q.js line 2 > eval line 1148 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.trivago.in/ZC8R8F/mVXXO/Llxyk/hw/aVJ37atJp3uO/WTAXAg/Vh/FCaVsQCn4, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.trivago.in/ZC8R8F/mVXXO/Llxyk/hw/aVJ3pGtJp3uO/WTAXAg/OT/wYUj5-chE, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ScuHrLJSuMz-P8UpD_WVXyUZt188tH6pyCCWmvqBSxI.js line 2 > eval line 6143 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657296096100	Marionette	INFO	Stopped listening on port 60662
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657297129995	geckodriver	INFO	Listening on 127.0.0.1:62249
+1657297133103	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62250" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Shiva\\AppData\\Local\\Temp\\rust_mozprofilesOuNMV"
+1657297134037	Marionette	INFO	Marionette enabled
+1657297134048	Marionette	INFO	Listening on port 62263
+WebDriver BiDi listening on ws://localhost:62250
+Read port: 62263
+1657297134449	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1657297156834	geckodriver	INFO	Listening on 127.0.0.1:62289
+1657297159923	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62290" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Shiva\\AppData\\Local\\Temp\\rust_mozprofileiP588V"
+1657297160603	Marionette	INFO	Marionette enabled
+1657297160613	Marionette	INFO	Listening on port 62302
+WebDriver BiDi listening on ws://localhost:62290
+Read port: 62302
+1657297160947	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Shiva\\AppData\\Local\\Temp\\rust_mozprofileiP588V\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62290/devtools/browser/0a421554-5e94-4fcb-b727-0f6713394bd5
+JavaScript warning: https://www.trivago.in/ZC8R8F/mVXXO/Llxyk/hw/aVJ3pGtJp3uO/WTAXAg/OT/wYUj5-chE, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.trivago.in"
+JavaScript warning: https://maps.googleapis.com/maps-api-v3/api/js/49/8-beta/webgl.js, line 367: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/yleD_imbJ2YLIerZJCJUa4yQOSRhPvCXXlQ8m3xKa_Q.js line 2 > eval line 1936 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.trivago.in/ZC8R8F/mVXXO/Llxyk/hw/aVJ37atJp3uO/WTAXAg/Vh/FCaVsQCn4, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ScuHrLJSuMz-P8UpD_WVXyUZt188tH6pyCCWmvqBSxI.js line 2 > eval line 931 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: copyTexSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: copyTexSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\Shiva\AppData\Local\Temp\rust_mozprofileiP588V\bookmarkbackups\bookmarks-2022-07-08_11_hEZW0aioQwy2EfkhOHFnNg==.jsonlz4) because it does not exist
+JavaScript warning: https://maps.googleapis.com/maps-api-v3/api/js/49/8-beta/webgl.js, line 367: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ScuHrLJSuMz-P8UpD_WVXyUZt188tH6pyCCWmvqBSxI.js line 2 > eval line 2034 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.trivago.in"
+JavaScript warning: https://maps.googleapis.com/maps-api-v3/api/js/49/8-beta/webgl.js, line 367: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/yleD_imbJ2YLIerZJCJUa4yQOSRhPvCXXlQ8m3xKa_Q.js line 2 > eval line 7494 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://maps.googleapis.com/maps-api-v3/api/js/49/8-beta/webgl.js, line 367: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ScuHrLJSuMz-P8UpD_WVXyUZt188tH6pyCCWmvqBSxI.js line 2 > eval line 5456 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.trivago.in/ppywHH/LnYyfp/PqfO4XF/wUx/47/D9r1c0LDkE/W3JTOn5fDQs/GgEgFTVQ/F1M, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.trivago.in/ppywHH/LnYyfp/PqfO4XF/wUx/47/D9r1uYLDkE/W3JTOn5fDQs/IUQBWxUn/V0Q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://maps.googleapis.com/maps-api-v3/api/js/49/8-beta/webgl.js, line 367: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ScuHrLJSuMz-P8UpD_WVXyUZt188tH6pyCCWmvqBSxI.js line 2 > eval line 237 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.trivago.in/assets/a7a2253a2aacf5ac0886061caaa9a3568001117868c, line 30: TypeError: can't redefine non-configurable property "jQuery"
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.trivago.in/ppywHH/LnYyfp/PqfO4XF/wUx/47/D9r1c0LDkE/W3JTOn5fDQs/GgEgFTVQ/F1M, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.trivago.in/ppywHH/LnYyfp/PqfO4XF/wUx/47/D9r1uYLDkE/W3JTOn5fDQs/IUQBWxUn/V0Q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.trivago.in/ppywHH/LnYyfp/PqfO4XF/wUx/47/D9r1uYLDkE/W3JTOn5fDQs/IUQBWxUn/V0Q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.trivago.in/assets/a7a2253a2aacf5ac0886061caaa9a3568001117868c, line 30: TypeError: can't redefine non-configurable property "jQuery"
+JavaScript warning: https://www.trivago.in/ppywHH/LnYyfp/PqfO4XF/wUx/47/D9r1uYLDkE/W3JTOn5fDQs/IUQBWxUn/V0Q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: drawArraysInstanced: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 596"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:596:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 596, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 596: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1657380173267	Marionette	INFO	Stopped listening on port 62302
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657434195330	geckodriver	INFO	Listening on 127.0.0.1:63561
+1657434198380	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63562" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Shiva\\AppData\\Local\\Temp\\rust_mozprofileAZrVHp"
+1657434198902	Marionette	INFO	Marionette enabled
+1657434198908	Marionette	INFO	Listening on port 63572
+WebDriver BiDi listening on ws://localhost:63562
+Read port: 63572
+1657434199088	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Shiva\\AppData\\Local\\Temp\\rust_mozprofileAZrVHp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63562/devtools/browser/f411f090-eb8f-4bbc-b63e-488e643a62e2
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1657434209232	Marionette	INFO	Stopped listening on port 63572
+1657434238833	geckodriver	INFO	Listening on 127.0.0.1:63666
+1657434241867	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63667" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Shiva\\AppData\\Local\\Temp\\rust_mozprofileOX4ORU"
+1657434242221	Marionette	INFO	Marionette enabled
+1657434242226	Marionette	INFO	Listening on port 63677
+WebDriver BiDi listening on ws://localhost:63667
+Read port: 63677
+1657434242377	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Shiva\\AppData\\Local\\Temp\\rust_mozprofileOX4ORU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63667/devtools/browser/ddbd2723-8b3f-4c2d-9a6e-f9044d479a8d
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1657434249380	Marionette	INFO	Stopped listening on port 63677
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.

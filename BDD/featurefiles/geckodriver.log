@@ -1,0 +1,360 @@
+1657464479846	geckodriver	INFO	Listening on 127.0.0.1:53770
+1657464482902	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53771" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Shiva\\AppData\\Local\\Temp\\rust_mozprofileTaZTXf"
+1657464483405	Marionette	INFO	Marionette enabled
+1657464483411	Marionette	INFO	Listening on port 53781
+WebDriver BiDi listening on ws://localhost:53771
+Read port: 53781
+1657464483585	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Shiva\\AppData\\Local\\Temp\\rust_mozprofileTaZTXf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53771/devtools/browser/93a312dc-8f0d-49a5-9e52-74536980a38c
+JavaScript warning: https://www.trivago.in/uQAdUaqLthVCIvwzrIJT/iVN5SmpG/QGtpNgFaBQ/CUpqEhA/gCjg, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657464686468	geckodriver	INFO	Listening on 127.0.0.1:54012
+1657464689523	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54013" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Shiva\\AppData\\Local\\Temp\\rust_mozprofileH2ORs1"
+1657464689861	Marionette	INFO	Marionette enabled
+1657464689865	Marionette	INFO	Listening on port 54023
+WebDriver BiDi listening on ws://localhost:54013
+Read port: 54023
+1657464690029	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Shiva\\AppData\\Local\\Temp\\rust_mozprofileH2ORs1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54013/devtools/browser/b70e661d-320d-457e-9dc6-4eaaa4605b65
+JavaScript warning: https://www.trivago.in/uQAdUaqLthVCIvwzrIJT/iVN5SmpG/QGtpNgFaBQ/CUpqEhA/gCjg, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657464869373	geckodriver	INFO	Listening on 127.0.0.1:54197
+1657464872450	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54198" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Shiva\\AppData\\Local\\Temp\\rust_mozprofileojQOLy"
+1657464872908	Marionette	INFO	Marionette enabled
+1657464872914	Marionette	INFO	Listening on port 54208
+WebDriver BiDi listening on ws://localhost:54198
+Read port: 54208
+1657464873080	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Shiva\\AppData\\Local\\Temp\\rust_mozprofileojQOLy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54198/devtools/browser/c8b5016d-7ab8-4630-ae6d-82a714565acd
+JavaScript warning: https://www.trivago.in/uQAdUaqLthVCIvwzrIJT/iVN5SmpG/QGtpNgFaBQ/CUpqEhA/gCjg, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657464920810	geckodriver	INFO	Listening on 127.0.0.1:54341
+1657464923881	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54342" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Shiva\\AppData\\Local\\Temp\\rust_mozprofileSPzao4"
+1657464924292	Marionette	INFO	Marionette enabled
+1657464924298	Marionette	INFO	Listening on port 54353
+WebDriver BiDi listening on ws://localhost:54342
+Read port: 54353
+1657464924490	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Shiva\\AppData\\Local\\Temp\\rust_mozprofileSPzao4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54342/devtools/browser/6ec6801f-e8fd-4dde-b869-dd4ab14d874c
+1657464931313	Marionette	INFO	Stopped listening on port 54353
+[Parent 1852, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1657465091293	geckodriver	INFO	Listening on 127.0.0.1:54516
+1657465094367	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54517" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Shiva\\AppData\\Local\\Temp\\rust_mozprofileWukEof"
+1657465094801	Marionette	INFO	Marionette enabled
+1657465094806	Marionette	INFO	Listening on port 54527
+WebDriver BiDi listening on ws://localhost:54517
+Read port: 54527
+1657465094977	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Shiva\\AppData\\Local\\Temp\\rust_mozprofileWukEof\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54517/devtools/browser/4ac0f35f-d457-470f-a8ef-8f8eea5864f3
+1657465102149	Marionette	INFO	Stopped listening on port 54527
+1657467408726	geckodriver	INFO	Listening on 127.0.0.1:55608
+1657467411745	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55609" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Shiva\\AppData\\Local\\Temp\\rust_mozprofileAjcUb2"
+1657467412157	Marionette	INFO	Marionette enabled
+1657467412161	Marionette	INFO	Listening on port 55619
+WebDriver BiDi listening on ws://localhost:55609
+Read port: 55619
+1657467412312	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Shiva\\AppData\\Local\\Temp\\rust_mozprofileAjcUb2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55609/devtools/browser/d65ae322-0cf8-41b4-9732-4d9b0cc59870
+JavaScript warning: https://www.trivago.in/uQAdUaqLthVCIvwzrIJT/iVN5SmpG/QGtpNgFaBQ/CUpqEhA/gCjg, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657467576906	geckodriver	INFO	Listening on 127.0.0.1:55824
+1657467579932	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55825" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Shiva\\AppData\\Local\\Temp\\rust_mozprofileeVVyrE"
+1657467580249	Marionette	INFO	Marionette enabled
+1657467580253	Marionette	INFO	Listening on port 55835
+WebDriver BiDi listening on ws://localhost:55825
+Read port: 55835
+1657467580403	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Shiva\\AppData\\Local\\Temp\\rust_mozprofileeVVyrE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55825/devtools/browser/94a095f3-e57e-4d77-b386-63e2862325c5
+JavaScript warning: https://www.trivago.in/uQAdUaqLthVCIvwzrIJT/iVN5SmpG/QGtpNgFaBQ/CUpqEhA/gCjg, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657467826839	Marionette	INFO	Stopped listening on port 55835
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "56069" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Shiva\\AppData\\Local\\Temp\\rust_mozprofileUaCWB2"
+1657467713852	Marionette	INFO	Marionette enabled
+1657467713856	Marionette	INFO	Listening on port 56079
+WebDriver BiDi listening on ws://localhost:56069
+Read port: 56079
+1657467714012	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Shiva\\AppData\\Local\\Temp\\rust_mozprofileUaCWB2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56069/devtools/browser/7ebf04cf-5fcf-4def-8933-cd36f1a82762
+JavaScript warning: https://www.trivago.in/uQAdUaqLthVCIvwzrIJT/iVN5SmpG/QGtpNgFaBQ/CUpqEhA/gCjg, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657467827998	Marionette	INFO	Stopped listening on port 56079
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "56243" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Shiva\\AppData\\Local\\Temp\\rust_mozprofileui9G56"
+1657467790790	Marionette	INFO	Marionette enabled
+1657467790795	Marionette	INFO	Listening on port 56253
+WebDriver BiDi listening on ws://localhost:56243
+Read port: 56253
+1657467790958	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Shiva\\AppData\\Local\\Temp\\rust_mozprofileui9G56\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56243/devtools/browser/d8eb6bac-ab0a-4d89-b8c2-331ed458dedf
+JavaScript warning: https://www.trivago.in/uQAdUaqLthVCIvwzrIJT/iVN5SmpG/QGtpNgFaBQ/CUpqEhA/gCjg, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:false'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 699"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:699:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:545:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2121:35
+addAllSources@resource://devtools/server/actors/thread.js:1482:14
+watch@resource://devtools/server/actors/resources/sources.js:62:17
+watchResources@resource://devtools/server/actors/resources/index.js:288:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:161:24
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:53:20
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:556:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:465:21
+Line: 699, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 699: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:false'
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 596"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:596:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 596, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 596: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1657535774091	Marionette	INFO	Stopped listening on port 56253
+[Parent 12852, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+d 0)))
+DevTools listening on ws://localhost:56472/devtools/browser/10501613-e33a-423e-b914-f8f68b63c08b
+JavaScript warning: https://www.trivago.in/uQAdUaqLthVCIvwzrIJT/iVN5SmpG/QGtpNgFaBQ/CUpqEhA/gCjg, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:false'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 699"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:699:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:545:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2121:35
+addAllSources@resource://devtools/server/actors/thread.js:1482:14
+watch@resource://devtools/server/actors/resources/sources.js:62:17
+watchResources@resource://devtools/server/actors/resources/index.js:288:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:161:24
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:53:20
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:556:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:465:21
+Line: 699, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 699: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:false'
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 596"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:596:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 596, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 596: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1657535772897	Marionette	INFO	Stopped listening on port 56482
+rs will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Shiva\\AppData\\Local\\Temp\\rust_mozprofileGHpARs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56722/devtools/browser/38c05e32-ce74-449b-8227-66e7a0e2fff0
+JavaScript warning: https://www.trivago.in/uQAdUaqLthVCIvwzrIJT/iVN5SmpG/QGtpNgFaBQ/CUpqEhA/gCjg, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:false'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 699"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:699:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:545:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2121:35
+addAllSources@resource://devtools/server/actors/thread.js:1482:14
+watch@resource://devtools/server/actors/resources/sources.js:62:17
+watchResources@resource://devtools/server/actors/resources/index.js:288:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:161:24
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:53:20
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:556:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:465:21
+Line: 699, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 699: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:false'
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 596"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:596:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 596, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 596: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.error: "Unable to find target with innerWindowId:4294967303"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1657535771569	Marionette	INFO	Stopped listening on port 56732
+rs will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Shiva\\AppData\\Local\\Temp\\rust_mozprofileXoaz3J\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56942/devtools/browser/daf5f4a6-f70d-4fbf-b069-c92e91b2506b
+JavaScript warning: https://www.trivago.in/uQAdUaqLthVCIvwzrIJT/iVN5SmpG/QGtpNgFaBQ/CUpqEhA/gCjg, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.trivago.in/FhvvN3H5g8QE93-Js4yKmweesig/3kt5DSGm/aixKAQ/fl/oSZxAlQGw, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.trivago.in/FhvvN3H5g8QE93-Js4yKmweesig/3kt5DSGm/aixKAQ/fl/oSZxAlQGw, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1657535769207	Marionette	INFO	Stopped listening on port 56952
+rt 61728
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657516247812	geckodriver	INFO	Listening on 127.0.0.1:61775
+1657516250898	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61776" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Shiva\\AppData\\Local\\Temp\\rust_mozprofileXqNQbS"
+1657516251662	Marionette	INFO	Marionette enabled
+1657516251671	Marionette	INFO	Listening on port 61788
+WebDriver BiDi listening on ws://localhost:61776
+Read port: 61788
+1657516252007	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Shiva\\AppData\\Local\\Temp\\rust_mozprofileXqNQbS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61776/devtools/browser/e5df3838-aafe-48ba-ba78-e58e01981378
+JavaScript warning: https://www.trivago.in/FhvvN3H5g8QE93-Js4yKmweesig/3kt5DSGm/aixKAQ/fl/oSZxAlQGw, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657516267404	Marionette	INFO	Stopped listening on port 61788
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657553887901	geckodriver	INFO	Listening on 127.0.0.1:62171
+1657553890990	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62172" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Shiva\\AppData\\Local\\Temp\\rust_mozprofileSHqVys"
+1657553891453	Marionette	INFO	Marionette enabled
+1657553891459	Marionette	INFO	Listening on port 62182
+WebDriver BiDi listening on ws://localhost:62172
+Read port: 62182
+1657553891641	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Shiva\\AppData\\Local\\Temp\\rust_mozprofileSHqVys\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62172/devtools/browser/b6db9a2d-8003-4efb-8327-2d8787611d07
+JavaScript warning: https://www.trivago.in/FhvvN3H5g8QE93-Js4yKmweesig/3kt5DSGm/aixKAQ/fl/oSZxAlQGw, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+SourceActor threw an exception: [Exception... "Failed to open input source 'chrome://browser/content/certerror/aboutNetErrorCodes.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 699"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:699:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:545:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2121:35
+addAllSources@resource://devtools/server/actors/thread.js:1482:14
+watch@resource://devtools/server/actors/resources/sources.js:62:17
+watchResources@resource://devtools/server/actors/resources/index.js:288:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:161:24
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:53:20
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:556:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:465:21
+Line: 699, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 699: Failed to open input source 'chrome://browser/content/certerror/aboutNetErrorCodes.js'
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 596"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:596:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 596, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 596: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1657554033518	geckodriver	INFO	Listening on 127.0.0.1:62383
+1657554036564	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62384" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Shiva\\AppData\\Local\\Temp\\rust_mozprofilePFBr2A"
+1657554036975	Marionette	INFO	Marionette enabled
+1657554036980	Marionette	INFO	Listening on port 62395
+WebDriver BiDi listening on ws://localhost:62384
+Read port: 62395
+1657554037146	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Shiva\\AppData\\Local\\Temp\\rust_mozprofilePFBr2A\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62384/devtools/browser/445f4d9b-b635-43fc-8c10-f3c8d37fd19e
+JavaScript warning: https://www.trivago.in/FhvvN3H5g8QE93-Js4yKmweesig/3kt5DSGm/aixKAQ/fl/oSZxAlQGw, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657554110790	geckodriver	INFO	Listening on 127.0.0.1:62568
+1657554113873	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62569" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Shiva\\AppData\\Local\\Temp\\rust_mozprofileSUSK6m"
+1657554114294	Marionette	INFO	Marionette enabled
+1657554114298	Marionette	INFO	Listening on port 62579
+WebDriver BiDi listening on ws://localhost:62569
+Read port: 62579
+1657554114452	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Shiva\\AppData\\Local\\Temp\\rust_mozprofileSUSK6m\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62569/devtools/browser/3dbbafb9-1bb4-4645-b7a3-be794acc464b
+JavaScript warning: https://www.trivago.in/FhvvN3H5g8QE93-Js4yKmweesig/3kt5DSGm/aixKAQ/fl/oSZxAlQGw, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657554124203	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1657554180099	geckodriver	INFO	Listening on 127.0.0.1:62747
+1657554183188	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62748" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Shiva\\AppData\\Local\\Temp\\rust_mozprofileLFCsHb"
+1657554183604	Marionette	INFO	Marionette enabled
+1657554183609	Marionette	INFO	Listening on port 62758
+WebDriver BiDi listening on ws://localhost:62748
+Read port: 62758
+1657554183769	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Shiva\\AppData\\Local\\Temp\\rust_mozprofileLFCsHb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62748/devtools/browser/55d4c02d-7fe3-4b10-85ff-124fcfd7478b
+JavaScript warning: https://www.trivago.in/FhvvN3H5g8QE93-Js4yKmweesig/3kt5DSGm/aixKAQ/fl/oSZxAlQGw, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657554558134	geckodriver	INFO	Listening on 127.0.0.1:63147
+1657554561212	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63148" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Shiva\\AppData\\Local\\Temp\\rust_mozprofilelWR4s1"
+1657554561622	Marionette	INFO	Marionette enabled
+1657554561627	Marionette	INFO	Listening on port 63160
+WebDriver BiDi listening on ws://localhost:63148
+Read port: 63160
+1657554561781	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Shiva\\AppData\\Local\\Temp\\rust_mozprofilelWR4s1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63148/devtools/browser/cd18d32c-99bf-44c3-b159-8b8c548b63c9
+JavaScript warning: https://www.trivago.in/FhvvN3H5g8QE93-Js4yKmweesig/3kt5DSGm/aixKAQ/fl/oSZxAlQGw, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657554570949	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1657554586724	Marionette	INFO	Stopped listening on port 63160
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657554798624	geckodriver	INFO	Listening on 127.0.0.1:63400
+1657554801696	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63401" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Shiva\\AppData\\Local\\Temp\\rust_mozprofilevyBPB0"
+1657554802141	Marionette	INFO	Marionette enabled
+1657554802147	Marionette	INFO	Listening on port 63419
+WebDriver BiDi listening on ws://localhost:63401
+Read port: 63419
+1657554802323	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Shiva\\AppData\\Local\\Temp\\rust_mozprofilevyBPB0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63401/devtools/browser/9aa8295a-ee67-44d2-b764-5ffd7a5cf268
+JavaScript warning: https://www.trivago.in/FhvvN3H5g8QE93-Js4yKmweesig/3kt5DSGm/aixKAQ/fl/oSZxAlQGw, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.trivago.in"
+1657555033888	geckodriver	INFO	Listening on 127.0.0.1:63641
+1657555036976	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63642" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Shiva\\AppData\\Local\\Temp\\rust_mozprofileVqSqk9"
+1657555037316	Marionette	INFO	Marionette enabled
+1657555037321	Marionette	INFO	Listening on port 63652
+WebDriver BiDi listening on ws://localhost:63642
+Read port: 63652
+1657555037472	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Shiva\\AppData\\Local\\Temp\\rust_mozprofileVqSqk9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63642/devtools/browser/835ad9cd-8880-4423-aa0b-db49e6307114
+JavaScript warning: https://www.trivago.in/FhvvN3H5g8QE93-Js4yKmweesig/3kt5DSGm/aixKAQ/fl/oSZxAlQGw, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.trivago.in"
+1657561633128	Marionette	INFO	Stopped listening on port 63652
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "63828" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Shiva\\AppData\\Local\\Temp\\rust_mozprofileCdDjK6"
+1657555124234	Marionette	INFO	Marionette enabled
+1657555124239	Marionette	INFO	Listening on port 63839
+WebDriver BiDi listening on ws://localhost:63828
+Read port: 63839
+1657555124391	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Shiva\\AppData\\Local\\Temp\\rust_mozprofileCdDjK6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63828/devtools/browser/26f19f76-08cf-4020-8bc4-1f3ac22461d8
+JavaScript warning: https://www.trivago.in/FhvvN3H5g8QE93-Js4yKmweesig/3kt5DSGm/aixKAQ/fl/oSZxAlQGw, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657555135411	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.trivago.in"
+JavaScript warning: https://maps.googleapis.com/maps-api-v3/api/js/49/8-beta/webgl.js, line 367: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1657555155395	Marionette	INFO	Stopped listening on port 63839
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1657555174872	geckodriver	INFO	Listening on 127.0.0.1:64017
+1657555177956	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64018" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Shiva\\AppData\\Local\\Temp\\rust_mozprofilezbhVVA"
+1657555178358	Marionette	INFO	Marionette enabled
+1657555178362	Marionette	INFO	Listening on port 64028
+WebDriver BiDi listening on ws://localhost:64018
+Read port: 64028
+1657555178517	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Shiva\\AppData\\Local\\Temp\\rust_mozprofilezbhVVA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64018/devtools/browser/c2ba44f9-2ff0-45b8-9203-a9fbe6b0423e
+JavaScript warning: https://www.trivago.in/FhvvN3H5g8QE93-Js4yKmweesig/3kt5DSGm/aixKAQ/fl/oSZxAlQGw, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.trivago.in"
+1657608305482	geckodriver	INFO	Listening on 127.0.0.1:53389
+1657608308614	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53390" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Shiva\\AppData\\Local\\Temp\\rust_mozprofiles69Vd8"
+1657608309466	Marionette	INFO	Marionette enabled
+1657608309475	Marionette	INFO	Listening on port 53400
+WebDriver BiDi listening on ws://localhost:53390
+Read port: 53400
+1657608309811	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Shiva\\AppData\\Local\\Temp\\rust_mozprofiles69Vd8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53390/devtools/browser/dbb8b3dc-8615-46e6-9801-0d024a193b0a
+JavaScript warning: https://www.trivago.in/jSsA/hw3D/4/mox/hk3LLA/Y7i7pkmfYrOa/JU5qJG86HAQ/WGJTfgwK/SSQ, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.trivago.in"
+1657608328360	Marionette	INFO	Stopped listening on port 53400
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657608345900	geckodriver	INFO	Listening on 127.0.0.1:53533
+1657608348952	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53534" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Shiva\\AppData\\Local\\Temp\\rust_mozprofile90ppmX"
+1657608349691	Marionette	INFO	Marionette enabled
+1657608349700	Marionette	INFO	Listening on port 53544
+WebDriver BiDi listening on ws://localhost:53534
+Read port: 53544
+1657608350049	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Shiva\\AppData\\Local\\Temp\\rust_mozprofile90ppmX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53534/devtools/browser/8329bddc-488d-4c8a-93ec-6a1362cc4943
+1657608358676	Marionette	INFO	Stopped listening on port 53544
